@@ -1,7 +1,5 @@
 package ar.edu.utn.dds;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-
 public class Multa {
 
 	private String fecha;
